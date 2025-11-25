@@ -23,7 +23,7 @@ log = ["dep:log"]
 yaml-rust2 = "0.10.3"
 facet-core = { version = "0.30", default-features = false }
 facet-reflect = { version = "0.30", default-features = false }
-facet-serialize = { version = "0.30", default-features = false, optional = true }
+facet-serialize = { version = "0.31", default-features = false, optional = true }
 log = { version = "0.4.27", optional = true }
 
 [dev-dependencies]
